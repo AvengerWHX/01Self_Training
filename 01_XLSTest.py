@@ -6,12 +6,12 @@
 import xlwt
 import os
 
-myData = [{"name":"甄少培","nickName":"寒鸣"},
-          {"name":"雷鹤","nickName":"一岁"},
-          {"name":"郭宁","nickName":"宁"},
-          {"name":"王浩然","nickName":"明儿喂马劈柴"},
-          {"name":"冯冲","nickName":"桃花幻梦"},
-          {"name":"武鹤欣","nickName":"Heyson."},
+myData = [{"name":"ZSP","nickName":"寒鸣"},
+          {"name":"LH","nickName":"一岁"},
+          {"name":"GN","nickName":"宁"},
+          {"name":"WHR","nickName":"明儿喂马劈柴"},
+          {"name":"FC","nickName":"桃花幻梦"},
+          {"name":"WHX","nickName":"Heyson."},
           ]
 
 # 创建workbook
